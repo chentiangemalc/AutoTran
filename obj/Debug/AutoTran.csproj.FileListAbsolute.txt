@@ -1,0 +1,13 @@
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\bin\Debug\AutoTran.exe.config
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\bin\Debug\AutoTran.exe
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\bin\Debug\AutoTran.pdb
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\obj\Debug\AutoTran.Form1.resources
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\obj\Debug\AutoTran.Properties.Resources.resources
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\obj\Debug\AutoTran.csproj.GenerateResource.cache
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\obj\Debug\AutoTran.csproj.CoreCompileInputs.cache
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\obj\Debug\AutoTran.exe
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\obj\Debug\AutoTran.pdb
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\bin\Debug\Newtonsoft.Json.dll
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\bin\Debug\Newtonsoft.Json.xml
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\obj\Debug\AutoTran.csproj.CopyComplete
+C:\Users\malcolm\source\repos\AutoTran\AutoTran\obj\Debug\AutoTran.csprojAssemblyReference.cache
